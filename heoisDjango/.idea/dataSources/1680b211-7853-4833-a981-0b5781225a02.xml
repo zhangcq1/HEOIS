@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="heois@localhost">
+  <database-model serializer="dbm" rdbms="MYSQL" format-version="4.1">
+    <root id="1"/>
+    <schema id="2" parent="1" name="heois">
+      <Current>1</Current>
+    </schema>
+    <schema id="3" parent="1" name="database_name"/>
+    <schema id="4" parent="1" name="information_schema"/>
+    <schema id="5" parent="1" name="mydatabase"/>
+    <schema id="6" parent="1" name="mysql"/>
+    <schema id="7" parent="1" name="mytest"/>
+    <schema id="8" parent="1" name="performance_schema"/>
+    <schema id="9" parent="1" name="python_demo"/>
+    <schema id="10" parent="1" name="sys"/>
+    <schema id="11" parent="1" name="user_info"/>
+    <schema id="12" parent="1" name="visitor1_database"/>
+  </database-model>
+</dataSource>
